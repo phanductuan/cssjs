@@ -120,7 +120,7 @@ var duan="1481974904";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
-var hotline="0906 999 420";
+var hotline="0906999420";
 var linkhientai=window.location.href;
 var thoigiancookie=1;
 var thoigianhien=10000;
@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://ductuangroup.blogspot.com/";
+	window.location="http://tintuc.datngoccorp.vn";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
@@ -165,3 +165,4 @@ function showform(){
 var action = setTimeout(function(){
     showform();
 }, thoigianhien);
+I!L0LD8,58KI8Rank198KAge2014|10|18l0+1!whoissourceRank2,84MAdv Disp Ads0Pub Disp Ads0PIN0IN!Summary reportDiagnosisDensity00n/a
